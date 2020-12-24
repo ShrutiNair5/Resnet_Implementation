@@ -18,7 +18,7 @@ Expeimented with following hyperparameter
 [ResNet-34](https://github.com/ShrutiNair5/Resnet_Implementation/blob/master/Group5_ResNet/RESNET13_34_SGD.ipynb):-  91.96%
 
 
-### Group 5 Team Members
+## Group 5 Team Members
 
 - [Akshay Amrit](https://github.com/akshayamrit) - E20004
 - [Aman Gupta](https://github.com/aman1608) - E20005
