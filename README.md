@@ -17,6 +17,7 @@ Expeimented with following hyperparameters
 
 [ResNet-34](https://github.com/ShrutiNair5/Resnet_Implementation/blob/master/Group5_ResNet/RESNET13_34_SGD.ipynb):-  91.96%
 
+Detailed hyperparameters used for experimenting are mentioned in [Experiments](https://github.com/ShrutiNair5/Resnet_Implementation/blob/master/Group5_ResNet/Group5_ResNet_Experiments.xlsx)
 
 ## Group 5 Team Members
 
