@@ -2,6 +2,7 @@
 We used  [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset for our experiments with ResNet Architecture.
 
 ## Hyper parameter
+Expeimented with following hyperparameter
 | Hyper parameter | Values | 
 | :---         |     :---:      |         
 | Batch Size |  32,64,128,256,512  |
@@ -13,6 +14,7 @@ We used  [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset for our
 ## Results
 
 [ResNet-18](https://github.com/ShrutiNair5/Resnet_Implementation/blob/master/Group5_ResNet/RESNET14_18_SGD.ipynb):-  91.07%
+
 [ResNet-34](https://github.com/ShrutiNair5/Resnet_Implementation/blob/master/Group5_ResNet/RESNET13_34_SGD.ipynb):-  91.96%
 
 
