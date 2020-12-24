@@ -2,7 +2,8 @@
 We used  [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset for our experiments with ResNet Architecture.
 
 ## Hyper parameter
-
+| Hyper parameter | Values | 
+| :---         |     :---:      |         
 | Batch Size |  32,64,128,256,512  |
 | Epoch |  60,80,100,150   |
 |  Optimizer |  Adam (with & without weight decay), SGD (with & without momentum and weight decay)  |
@@ -15,7 +16,7 @@ We used  [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset for our
 [ResNet-34](https://github.com/ShrutiNair5/Resnet_Implementation/blob/master/Group5_ResNet/RESNET13_34_SGD.ipynb):-  91.96%
 
 
-### Group 5 Team Member
+### Group 5 Team Members
 
 - [Akshay Amrit](https://github.com/akshayamrit) - E20004
 - [Aman Gupta](https://github.com/aman1608) - E20005
